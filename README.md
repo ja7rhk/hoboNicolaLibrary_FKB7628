@@ -1,6 +1,6 @@
 # hoboNicola library for FKB7628
 
-![](assets/images/RP2040_adapter.jpg)
+![](assets/images/FKB7628_adapter.jpg)
 
 本ライブラリはオリジナルのhoboNicola libraryを特定のキーボード向けアダプター用に一部改変したものです。Arduinoのスケッチ部分は \hoboNicolaLibrary\examples にあります。
 
